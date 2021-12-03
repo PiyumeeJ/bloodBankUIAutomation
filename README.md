@@ -6,7 +6,7 @@ This automation script allows testing web UI through test framework which built 
 These instructions will get you a copy of the project up and running on local machine for testing purposes.
 Technologies used: Java, Selenium, TestNG, Maven
 
-Prerequisites
+### Prerequisites
 
 Followings are required to start with
 1.	Java installed and set up in environment variable of the operating system.
@@ -36,11 +36,8 @@ Followings are required to start with
 
 	Import the Maven project into the IDE. 
 
-
-4.	Configarations
-     ```
 	
-1.	Running the tests in InteliJ
+4.	Running the tests in InteliJ
 
        ```
 	1.	Right Click the pom.xml --> Run As --> Maven Build.
@@ -51,7 +48,7 @@ Followings are required to start with
 	mvn clean install 
        ```
 
-2.	Running the tests in command line
+5.	Running the tests in command line
 
        ```
 	1.	Open terminal in Linux, Mac operating systems or Command prompt of the Windows operating system.
