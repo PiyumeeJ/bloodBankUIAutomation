@@ -69,4 +69,4 @@ Followings are required to start with
 	
 	
 ## Author 
-* **Piyumee Jayasuriya** - *Initial work* - [bloodBankUIAutomation](https://github.com/PiyumeeJ/bloodBankUIAutomation.git) 
+* **PiyumeeJ** - *Initial work* - [bloodBankUIAutomation](https://github.com/PiyumeeJ/bloodBankUIAutomation.git) 
