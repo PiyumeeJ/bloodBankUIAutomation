@@ -30,7 +30,7 @@ Followings are required to start with
 	•	Clone the repository using the command "git clone” or Download the zip from the URL and unzip it.
 	
 
-      Git Repository:  [bloodBankUIAutomation](https://github.com/PiyumeeJ/bloodBankUIAutomation.git) 
+                Git Repository:  [bloodBankUIAutomation](https://github.com/PiyumeeJ/bloodBankUIAutomation.git)
  
 
 3.	Project Preparation.
